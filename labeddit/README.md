@@ -4,15 +4,18 @@
 [Labeddit](http://labeddit-lr.surge.sh)
 
 
-## Descrição do Projeto
+## Project Description | Descrição do Projeto
+
+Labeddit is a Reddit clone, using a simple API made by Labenu. It is possible to create a user account or login into an existing one. After authentication, the user can create new posts, comment and vote. I implemented extra functionalities like a post timer, infinite scroll and some simple animation and loading buttons.
+
 O Labeddit é um clone do Reddit e outras plataformas de fórum simples, utilizando uma API fornecida pela Labenu. Aqui você pode criar uma conta de usuário ou logar com uma existente. Depois da autenticação, o usuário pode criar novos posts, comentar em posts existentes e votar em posts e comentários. Foram implementadas funcionalidades extras como o cronometro de tempo de postagem, possibilidade de carregar mais posts *ad infinitum* e algumas animações simples e loading em botões e páginas.
 
-## Tecnologias
+## Technologies | Tecnologias
 [React.js](https://reactjs.org/)\
 [StyledComponents](https://styled-components.com/)\
 
 
-## Telas
+## Screens
 
 <img width="415" alt="Captura de Tela 2022-03-23 às 10 21 39" src="https://user-images.githubusercontent.com/92735047/159709770-385171e8-e5a3-4d1e-8eb2-21917fb0734c.png">
 <img width="415" alt="Captura de Tela 2022-03-23 às 10 21 44" src="https://user-images.githubusercontent.com/92735047/159709775-846f13be-47f1-45be-90b8-bb8743d04116.png">
