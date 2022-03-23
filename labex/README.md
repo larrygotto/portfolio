@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Labeddit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Site 
+[LabeX](https://labex-lr.surge.sh)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Project Description | Descrição do Projeto
 
-### `npm start`
+LabeX is a simple spacetrips website, where the user can enroll to be an astronaut on a chosen planet. Beyond that, I implemented a administrative page, where the admin can add or delete trips and also accept or reject candidates to trips. I also created an algorithm to display the planet images so that you only need to chose the planet.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O LabeX é um site simples de viagens espaciais, onde o usuário pode se candidatar para ser um astronauta no planeta escolhido. Além disso, foi implementada uma página administrativa onde é possível adicionar ou deletar viagens e também aceitar ou recusar candidatos. Eu também criei um algoritmo simples para mostrar as imagens dos planetas automaticamente, para que não seja preciso adicioná-las enquanto está sendo criada a viagem.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Admin Panel
+username: leo@leo.com
+password: 102030
 
-### `npm test`
+## Technologies | Tecnologias
+[React.js](https://reactjs.org/)\
+[StyledComponents](https://styled-components.com/)\
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Screens
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="415" alt="Captura de Tela 2022-03-23 às 11 15 02" src="https://user-images.githubusercontent.com/92735047/159720077-34cf3f50-8258-4fb7-8861-712f239235a9.png">
+<img width="415" alt="Captura de Tela 2022-03-23 às 11 15 08" src="https://user-images.githubusercontent.com/92735047/159720081-842fcbac-005f-48e8-a237-2f8c9e862ae8.png">
+<img width="415" alt="Captura de Tela 2022-03-23 às 11 15 16" src="https://user-images.githubusercontent.com/92735047/159720083-4c87db0d-54c0-4053-a499-a250161aea8b.png">
+<img width="415" alt="Captura de Tela 2022-03-23 às 11 15 19" src="https://user-images.githubusercontent.com/92735047/159720087-6d5eefef-a025-495f-b183-5f9b7818f91f.png">
+<img width="415" alt="Captura de Tela 2022-03-23 às 11 15 27" src="https://user-images.githubusercontent.com/92735047/159720089-db072516-ba5f-431e-b979-20b5eee196a2.png">
+<img width="415" alt="Captura de Tela 2022-03-23 às 11 15 37" src="https://user-images.githubusercontent.com/92735047/159720092-51117ef1-7315-49ba-b9ac-ed129d3ebe95.png">
+<img width="415" alt="Captura de Tela 2022-03-23 às 11 15 41" src="https://user-images.githubusercontent.com/92735047/159720096-8dcc00ca-36a4-4a64-880b-fd3a158a5b33.png">
+<img width="415" alt="Captura de Tela 2022-03-23 às 11 15 55" src="https://user-images.githubusercontent.com/92735047/159720097-3bc2e9d5-a829-4412-a9c6-9cea3e5358bc.png">
+<img width="415" alt="Captura de Tela 2022-03-23 às 11 16 00" src="https://user-images.githubusercontent.com/92735047/159720102-9a885f10-1eab-406b-a440-0847ca1726fb.png">
