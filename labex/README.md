@@ -1,4 +1,4 @@
-# Labeddit
+# LabeX
 
 ## Site 
 [LabeX](https://labex-lr.surge.sh)
