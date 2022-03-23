@@ -5,7 +5,7 @@
 
 
 ## Descrição do Projeto
-O FutureMath é um clone de front-end de aplicativos de relacionamento, como Tinder, implementando uma API simples. Nele e possivel curtir perfis alimentados pela API e verificar se esses perfis corresponderam a curtida ou não. Todo o design foi criado por mim, alem de funcionalidades extras como um notification bubble. Animacoes simples foram implementadas, animacoes mais complexas estavam no pipeline mas nao houve tempo habil para conclusao.
+O FutureMath é um clone de front-end de aplicativos de relacionamento, como Tinder, implementando uma API simples. Nele e possível curtir perfis alimentados pela API e verificar se esses perfis corresponderam à curtida ou não. Todo o design foi criado por mim, além de funcionalidades extras como um notification bubble. Animações simples foram implementadas, animações mais complexas estavam no pipeline mas não houve tempo hábil para conclusão.
 
 
 ## Tecnologias
