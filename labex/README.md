@@ -12,6 +12,7 @@ O LabeX é um site simples de viagens espaciais, onde o usuário pode se candida
 
 ## Admin Panel
 username: leo@leo.com
+
 password: 102030
 
 ## Technologies | Tecnologias
