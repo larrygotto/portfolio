@@ -6,9 +6,9 @@
 
 ## Project Description | Descrição do Projeto
 
-FutureMatch is a front-end clone of dating apps, like Tinder, implementing a simple API. It is possible to like or dislike profiles fed by the API and check if if there was a match. I designed the entire app and extra functionalities like a notification bubble. Simple animation is implemented, more complex ones were in the pipeline but there was no time to conclude.
+AstroMatch is a front-end clone of dating apps, like Tinder, implementing a simple API. It is possible to like or dislike profiles fed by the API and check if if there was a match. I designed the entire app and extra functionalities like a notification bubble. Simple animation is implemented, more complex ones were in the pipeline but there was no time to conclude.
 
-O FutureMatch é um clone de front-end de aplicativos de relacionamento, como Tinder, implementando uma API simples. Nele e possível curtir perfis alimentados pela API e verificar se esses perfis corresponderam à curtida ou não. Todo o design foi criado por mim, além de funcionalidades extras como um notification bubble. Animações simples foram implementadas, animações mais complexas estavam no pipeline mas não houve tempo hábil para conclusão.
+O AstroMatch é um clone de front-end de aplicativos de relacionamento, como Tinder, implementando uma API simples. Nele e possível curtir perfis alimentados pela API e verificar se esses perfis corresponderam à curtida ou não. Todo o design foi criado por mim, além de funcionalidades extras como um notification bubble. Animações simples foram implementadas, animações mais complexas estavam no pipeline mas não houve tempo hábil para conclusão.
 
 
 ## Technologies | Tecnologias
