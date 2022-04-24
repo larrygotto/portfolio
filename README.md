@@ -6,7 +6,7 @@ Feel free to leave feedback and tips whenever you see fit.
 
 ## Team Projects
 
-- **<a href="https://github.com/Squad-25/technical-share-25">Technical Share</a>** - Mentoring Search App - Developed in 15 days during FCamara Hackathon Season 3. React.js and Node.js
+- **<a href="https://github.com/Squad-25/technical-share-25">Technical Share</a>** - Mentoring Search App - Developed in 15 days during FCamara Hackathon Season 3, using React.js and Node.js
 - **<a href="https://github.com/future4code/Moreira-labe-food1/tree/4bd81f61d20b9e5918443d4be2c57669bb096b26">FutureEats</a>** - Food delivery React App.
 - **<a href="https://github.com/larrygotto/portfolio/tree/main/pokedex">PokeNu</a>** - Pokedex CSS Heavy, using PokeAPI.
 
